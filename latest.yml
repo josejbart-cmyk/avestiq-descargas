@@ -1,8 +1,8 @@
-version: 0.7.5
+version: 0.7.6
 files:
-  - url: AVESTIQ-Operativa-Setup-0.7.5.exe
-    sha512: zyqui/1rbFwV8ixPJmoniCniNUq7Q93lg7F+GDksgZwjZvca06/NphTf9vcb+5UtWWXQD5RaES/BF8qpPF5Umg==
-    size: 95542698
-path: AVESTIQ-Operativa-Setup-0.7.5.exe
-sha512: zyqui/1rbFwV8ixPJmoniCniNUq7Q93lg7F+GDksgZwjZvca06/NphTf9vcb+5UtWWXQD5RaES/BF8qpPF5Umg==
-releaseDate: '2026-11-13T13:01:34.551Z'
+  - url: AVESTIQ-Operativa-Setup-0.7.6.exe
+    sha512: YVDjRVzDBmPKTNcMxC0qiBC0xrLZwuYjqJZHDnLnu8HKwvpHGVmSOWA56+yUp5C5uTzsXMb7na2fOVCiVrTMKA==
+    size: 95553058
+path: AVESTIQ-Operativa-Setup-0.7.6.exe
+sha512: YVDjRVzDBmPKTNcMxC0qiBC0xrLZwuYjqJZHDnLnu8HKwvpHGVmSOWA56+yUp5C5uTzsXMb7na2fOVCiVrTMKA==
+releaseDate: '2026-11-13T18:43:21.638Z'
